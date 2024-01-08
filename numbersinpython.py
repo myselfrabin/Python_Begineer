@@ -1,0 +1,4 @@
+universal_age=14_00_99_00_99_77
+print(universal_age)
+universal_age=111111
+print(universal_age)
